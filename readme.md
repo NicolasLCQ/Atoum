@@ -11,7 +11,7 @@ L'objectif est d'échanger avec une interface uniquement textuelle pour génére
 
 ## 🛠 Prérequis
 
-![Badge TODO](https://img.shields.io/badge/TODO-darkgreen)
+- git
 
 ## 🚀 Installation et Démarrage
 
@@ -33,7 +33,13 @@ L'objectif est d'échanger avec une interface uniquement textuelle pour génére
 
 ## 📂 Structure du Projet
 
-![Badge TODO](https://img.shields.io/badge/TODO-darkgreen)
+```
+atoum/                              # Racine du projet
+├── infrastructure/                 # Dossier de centralisation des différentes applications
+│   └── stable-diffusion-webui/     # Stable Diffusion WebUI :: Générateur d'image
+├── LICENSE                         # Licence MIT
+└── readme.md                       # readme
+```
 
 ## 📜 Licence
 
